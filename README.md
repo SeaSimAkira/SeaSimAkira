@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ![](https://www.bing.com/th/id/OGC.0461169642837d62ca5b837370cf89fd?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia.tenor.com%2fzNln6EludPsAAAAC%2fcid-kagenou-eminence-in-shadow.gif&ehk=hk3YRYRSpv4%2bLSnjGAk1CXwLHNkWTpqLaTT3%2bVQqDeQ%3d)
+
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arikirin1384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:obong6428@gmail.com) 
 
@@ -28,5 +31,6 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SeaSimAkira&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://repository-images.githubusercontent.com/470332317/dce2d340-42ad-47ff-bc68-3f47a5cfed9f)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
